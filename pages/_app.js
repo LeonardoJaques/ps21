@@ -1,8 +1,7 @@
 import "../styles/globals.css";
-import "../styles/header.css";
 
-function MyApp({ Component, pageProps }) {
+function Ps21({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }
 
-export default MyApp;
+export default Ps21;
