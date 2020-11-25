@@ -18,8 +18,8 @@
 
 .sectionImage {
   position: relative;
-  width: 120px;
-  height: 120px;
+  width: 12px;
+  height: 12px;
   border-radius: 15px;
   border: none;
 }
@@ -31,15 +31,15 @@
 
 @media only screen and (max-width: 600px) {
   .sectionImage {
-    width: 130px;
-    height: 130px;
+    width: 13%;
+    height: 13%;
     border-radius: 15px;
   }
   .sectionImageContainer {
     text-align: start;
     display: block;
-    width: fit-content;
-    height: fit-content;
+    width: 450px;
+    height: 450px;
     border: none;
   }
 }

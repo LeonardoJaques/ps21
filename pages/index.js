@@ -13,6 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
+
       <div className={styles.firstSection}>
         <Section
           icon={<Image src="/maloik.svg" width={60} height={60} />}
@@ -36,7 +37,16 @@ export default function Home() {
               </p>
             </div>
           }
-          imgURl="/EU81.png"
+          imgURl={
+            <div className={styles.sectionImageContainer}>
+              <img
+                className={styles.sectionImage}
+                src="/EU81.png"
+                alt="Minha foto"
+                title="Leonardo Jaques"
+              />
+            </div>
+          }
         />
       </div>
 

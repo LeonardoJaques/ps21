@@ -9,16 +9,8 @@ export default function Section(props) {
         <div className={styles.title}>{props.title}</div>
       </header>
       <hr className={styles.line} />
-
       <div className={styles.text}>{props.text}</div>
-      <div className={styles.containerIMG}>
-        <img
-          className={styles.image}
-          src={props.imgURl}
-          alt={props.imgAlt}
-          title={props.imgTitle}
-        />
-      </div>
+      <div>{props.imgURl}</div>
     </section>
   );
 }
