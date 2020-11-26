@@ -10,6 +10,11 @@ export default function Section(props) {
       </header>
       <hr className={styles.line} />
       <div className={styles.text}>{props.text}</div>
+      <div>
+        {props.subtitle}
+        <br />
+      </div>
+      <div>{props.postText}</div>
       <div>{props.imgURl}</div>
     </section>
   );

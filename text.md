@@ -22,24 +22,24 @@ Gestão Marketing:
 • Apresentação e Vendas
 
 Análise de Sistemas:
-• Desenvolvimento de Apps
+• Desenvolvimento de Apps (Android e ReactJS)
 • Desenvolvimento Web
 • Requerimento e Análises de Projetos
 • Design e Modelagem de Sistemas
 • Implementação e codificação
-• Testes
-• Manutenção
+• Testes e implentação
+• Manutenção de sistemas
 
 Gestão de projetos:
 • GES. de Escopo
-• Gerenciamento do Cronograma
-•Gerenciamento de Custos
-•Gerenciamento de Qualidade
-• Gerenciamento dos Recursos
-•Gerenciamento das Comunicações
-•Gerenciamento de Riscos
-•Gerenciamento de Aquisições do projeto
-Gestão de Partes Interessadas do projeto
+• GES. do Cronograma
+• GES. de Custos
+• GES. de Qualidade
+• GES. dos Recursos
+• GES. das Comunicações
+• GES. de Riscos
+• GES. de Aquisições do projeto
+• GES. de Partes Interessadas do projeto
 
 Projetos & Clientes:
 

@@ -1,0 +1,17 @@
+.composeSection {
+  margin-top: 160px;
+}
+
+.textForm {
+  background-color: #fbf6f0;
+  border-radius: 0px 5px 0px 0px;
+  width: fit-content;
+  height: fit-content;
+}
+
+.paper {
+  text-align: center;
+  margin: 5px;
+  width: 200px;
+  height: fit-content;
+}
